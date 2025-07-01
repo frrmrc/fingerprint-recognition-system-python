@@ -34,8 +34,7 @@ fingerprint-recognition/
 │   ├── ui.py
 │   └── storage.py
 ├── data/
-│   ├── sample_data/
-│   └── README.md
+│   └── sample_data.zip
 └── examples/
 ```
 
